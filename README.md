@@ -1,6 +1,4 @@
-# PreBH18_PhenoTips
-
-## *PhenoTipsセミナー
+# PhenoTipsセミナー
 
 ##### [BioHackathon2018](http://2018.biohackathon.org/)の開催に先立ち、来日されるOrion Buske氏に[PhenoTips](https://phenotips.org)についてご講演いただきます。
 
