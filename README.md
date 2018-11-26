@@ -1,6 +1,6 @@
 # PhenoTipsセミナー  
 
-##### [BioHackathon2018](http://2018.biohackathon.org/)の開催に先立ち、来日される[Orion Buske](https://gene42.com/company/team)氏から[PhenoTips](https://phenotips.org)についてご講演いただきます。
+#### [BioHackathon2018](http://2018.biohackathon.org/)の開催に先立ち、来日される[Orion Buske](https://gene42.com/company/team)氏から[PhenoTips](https://phenotips.org)についてご講演いただきます。
   
 ### 日時
 - 2018年12月7日（金） 13:30 - 15:00
