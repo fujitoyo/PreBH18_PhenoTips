@@ -26,4 +26,4 @@
   - 質疑応答
   
 ### お問い合わせ先
-藤原 豊史 ライフサイエンス統合データベースセンター（DBCLS）[fujiwara@dbcls.rois.ac.jp](mailto:fujiwara@dbcls.rois.ac.jp)
+- 藤原 豊史 ライフサイエンス統合データベースセンター（DBCLS）[fujiwara@dbcls.rois.ac.jp](mailto:fujiwara@dbcls.rois.ac.jp)
